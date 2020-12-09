@@ -1,0 +1,37 @@
+.h5form {
+	color: white;
+	font-size: 20px;
+	border: none;
+	padding: 10px;
+	margin-bottom: 60px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+input {
+	margin-bottom: 30px;
+	width: 90%;
+	background-color: #282c34;
+	color: white;
+	letter-spacing: 1px;
+	padding: 10px;
+	border: none;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: #5e6168;
+}
+
+.sub {
+	width: 99%;
+	height: 50px;
+	border: solid;
+	border-width: thin;
+	background-color: #4c7c52;
+	border-radius: 20px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.message {
+	height: 100px;
+}

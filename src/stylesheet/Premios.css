@@ -1,0 +1,78 @@
+.image {
+	width: 350px;
+	width: 350px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.h2 {
+	color: rgb(29, 1, 56);
+	font-size: 40px;
+	font-weight: 400;
+	letter-spacing: 5px;
+	margin-top: 40px;
+}
+
+.h4 {
+	color: rgb(34, 34, 73);
+	font-size: 28px;
+	font-weight: 300;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	letter-spacing: 2px;
+}
+
+.h5 {
+	color: rgb(34, 34, 73);
+	font-size: 30px;
+	font-weight: 600;
+	width: 90%;
+	margin: auto;
+	margin-top: 1px;
+	margin-bottom: 0px;
+	letter-spacing: 2px;
+	border: none;
+}
+
+h6 {
+	color: rgb(34, 34, 73);
+	font-size: 17px;
+	font-weight: 500;
+	width: 90%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+}
+
+.border {
+	border-style: solid;
+	margin: auto;
+	width: 85%;
+	padding: 10px;
+}
+
+.seven {
+	margin-bottom: 60px;
+}
+
+.twingo,
+.sobre,
+.sillon {
+	width: 280px;
+	margin-bottom: 60px;
+}
+
+.tv {
+	width: 200px;
+	margin-bottom: 60px;
+}
+
+.aire {
+	width: 150px;
+	margin-bottom: 60px;
+}
+
+.lava {
+	width: 100px;
+}

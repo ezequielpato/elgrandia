@@ -1,0 +1,10 @@
+html {
+	background-color: rgb(19, 19, 19);
+}
+
+.colorFooter {
+	color: rgb(138, 138, 138);
+	font-size: 14px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}

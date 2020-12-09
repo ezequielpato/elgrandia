@@ -1,0 +1,20 @@
+.colorHeader {
+	color: tomato;
+	font-size: 20px;
+	margin: 0px;
+}
+
+.bk {
+	background-color: black;
+	width: 100vw;
+	display: block;
+}
+
+.d-block {
+	display: block;
+}
+
+.cero {
+	width: 100vw;
+	margin: 0;
+}
